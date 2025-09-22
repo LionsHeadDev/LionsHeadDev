@@ -1,11 +1,27 @@
-# **LionsHeadDev :lion:
-**_Aspiring Software Developer | Game & Software Development (Java / C++)_** 
+# Hey, I’m Omar 👋
 
-Welcome to my Github profile! I'm **Omar Mehmood**, an aspiring software developer passionate about **game development, Java, & C++**. This space is where I build, experiment, and improve my skills.
+I’m a Computer Science student who loves building things with code.  
+Right now my main goal is to become a **software engineer** — someone who can design and ship full applications from start to finish.  
 
 ---
 
-# :fire: What I'm Working On
-- :tennis:**Tennis vs. Cat Game** - _A casual arcade tennis game against a cat_
-- :houses: **WaddleTown** - _A town-building game with penguin villagers_
-- :desktop_computer: **Java and C++ Mini Projects** - Strengthening my fundamentals
+## What I’m working on
+- **Verba** → a French learning app I’m building with React + Vite.  
+   - My idea is to make it work everywhere: in a browser, on desktop, and even on mobile.  
+- Learning fullstack skills with **React** on the front and **Django REST** on the back.  
+- On the side I like making small games in **Unreal Engine** and messing around with Blender.  
+
+---
+
+## Skills I’m picking up
+- Frontend → React, Vite, CSS  
+- Backend → Django REST, Node basics  
+- Databases → SQLite, Postgres  
+- Tools → Git/GitHub, VS Code, Unreal Engine  
+
+---
+
+## A bit about me
+I enjoy combining creativity with code.  
+Sometimes that means building a study app, other times it means making a weird little game.  
+Either way, I’m always learning and trying to get better.  
