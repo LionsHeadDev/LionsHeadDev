@@ -21,7 +21,7 @@ Right now, I’m focused on becoming a strong **software developer**, and my lon
 ---
 
 ## Why I’m Here
-GitHub is my learning log. Every project here is me practicing how to take an idea, build it from scratch, and ship it to the web browser, desktop, and hopefully one day to mobile devices like Iphone or Android.  
+GitHub is my learning log. Every project here is me practicing how to take an idea, build it from scratch, and ship it off to browsers, desktops, and hopefully one day to mobile devices like iPhone or Android.  
 
 ---
 
