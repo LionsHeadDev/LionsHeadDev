@@ -1,4 +1,4 @@
-# Hi, I’m Omar 👋
+# Hi, I’m Omar Mehmood👋
 
 I like building things that actually work and teaching myself along the way like an open book. 
 Right now, I’m focused on becoming a strong **software developer**, and my long-term goal is to move into **quantum development**.
