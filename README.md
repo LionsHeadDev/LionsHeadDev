@@ -1,17 +1,17 @@
-# 👋 Hi, I’m Omar  
+# Hi, I’m Omar  
 
-💻 Aspiring **Software Engineer** | 🌐 Building **fullstack apps** | ⚛️ Future goal: **Quantum Development**  
+Aspiring **Software Engineer** | Building **fullstack apps** | Future goal: **Quantum Development**  
 
 ---
 
-## ⚡ What I Do
+## What I Do
 - Turn ideas into **working applications**  
 - Build projects that run on **web, desktop, and mobile**  
 - Focus on **React + Django REST + Databases**  
 
 ---
 
-## 🚀 Current Project
+## Current Project
 **[Verba](https://github.com/LionsHeadDev/verba)** — A French learning app  
 - React + Vite frontend  
 - Django REST backend  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech I Use
+## Tech I Use
 **Frontend:** React, Vite, CSS  
 **Backend:** Django REST, Node basics  
 **Databases:** SQLite, PostgreSQL  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Big Picture
+## Big Picture
 Right now → growing into a solid **Software Engineer**.  
 Future → explore **Quantum Development**, writing software for the next wave of computing.  
 
